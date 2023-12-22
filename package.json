@@ -1,0 +1,38 @@
+{
+  "name": "ai-quantity-theory-analysis-tool",
+  "version": "1.0.0",
+  "description": "A Node.js-based AI project to analyze and test the Quantity Theory of Money.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ai-quantity-theory-analysis-tool.git"
+  },
+  "keywords": [
+    "AI",
+    "Node.js",
+    "Machine Learning",
+    "Economics",
+    "Quantity Theory of Money"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-quantity-theory-analysis-tool/issues"
+  },
+  "homepage": "https://github.com/yourusername/ai-quantity-theory-analysis-tool#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "tensorflow": "^2.8.0",
+    "brain.js": "^2.0.0",
+    "react": "^17.0.2",
+    "angular": "^11.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
